@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1669843607 source:c:\users\12121bcc045\desktop\codeblocos\listas duplamente enc\listad.c
+	<stdio.h>
+	<stdlib.h>
+	"listad.h"
+
+1669843919 source:c:\users\12121bcc045\desktop\codeblocos\listas duplamente enc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listad.h"
+
+1669843648 c:\users\12121bcc045\desktop\codeblocos\listas duplamente enc\listad.h
+
+1670184625 source:d:\tudo\curso\codeblocos\listas duplamente enc\listad.c
+	<stdio.h>
+	<stdlib.h>
+	"listad.h"
+
+1670184203 d:\tudo\curso\codeblocos\listas duplamente enc\listad.h
+
+1670184203 source:d:\tudo\curso\codeblocos\listas duplamente enc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listad.h"
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1674534465 source:d:\tudo\curso\codeblocos\trabalho aed1\trabalhoaed1\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"headersCalculadora.h"
+
+1674534465 d:\tudo\curso\codeblocos\trabalho aed1\trabalhoaed1\headerscalculadora.h
+
