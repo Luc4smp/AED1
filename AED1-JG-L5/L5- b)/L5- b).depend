@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1668612284 source:d:\tudo\curso\codeblocos\aed1-jg-l5\l5- b)\conjunto.c
+	<stdio.h>
+	<stdlib.h>
+	"conjunto.h"
+
+1668612317 d:\tudo\curso\codeblocos\aed1-jg-l5\l5- b)\conjunto.h
+
+1668612506 source:d:\tudo\curso\codeblocos\aed1-jg-l5\l5- b)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conjunto.h"
+

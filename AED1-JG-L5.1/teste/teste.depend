@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671222489 source:d:\tudo\curso\codeblocos\aed1-jg-l5.1\teste\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1669607248 source:d:\tudo\curso\codeblocos\l-6 jg\enc.c
+	<stdio.h>
+	<stdlib.h>
+	"enc.h"
+
+1669607251 d:\tudo\curso\codeblocos\l-6 jg\enc.h
+
+1669607255 source:d:\tudo\curso\codeblocos\l-6 jg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"enc.h"
+

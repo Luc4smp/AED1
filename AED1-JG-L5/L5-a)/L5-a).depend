@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1668549624 source:d:\tudo\curso\codeblocos\aed1-jg-l5\l5-a)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"strgg.h"
+
+1668549113 d:\tudo\curso\codeblocos\aed1-jg-l5\l5-a)\strgg.h
+
+1668549805 source:d:\tudo\curso\codeblocos\aed1-jg-l5\l5-a)\strgg.c
+	"strgg.h"
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+

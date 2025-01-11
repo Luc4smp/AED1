@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1668968382 source:d:\tudo\curso\codeblocos\aed1-jg-l5.1\lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1668984331 d:\tudo\curso\codeblocos\aed1-jg-l5.1\lista\lista.h
+
+1668984041 source:d:\tudo\curso\codeblocos\aed1-jg-l5.1\lista\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
